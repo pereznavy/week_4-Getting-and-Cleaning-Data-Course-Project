@@ -1,0 +1,28 @@
+Code Book
+This book contains the code used to get allData.melted (merged data)
+Human Activity Recognition Using Smartphones Data Set can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+The features:
+[1] "tBodyAccMeanX"                "tBodyAccMeanY"                "tBodyAccMeanZ"                "tBodyAccstdX"                 "tBodyAccstdY"                
+ [6] "tBodyAccstdZ"                 "tGravityAccMeanX"             "tGravityAccMeanY"             "tGravityAccMeanZ"             "tGravityAccstdX"             
+[11] "tGravityAccstdY"              "tGravityAccstdZ"              "tBodyAccJerkMeanX"            "tBodyAccJerkMeanY"            "tBodyAccJerkMeanZ"           
+[16] "tBodyAccJerkstdX"             "tBodyAccJerkstdY"             "tBodyAccJerkstdZ"             "tBodyGyroMeanX"               "tBodyGyroMeanY"              
+[21] "tBodyGyroMeanZ"               "tBodyGyrostdX"                "tBodyGyrostdY"                "tBodyGyrostdZ"                "tBodyGyroJerkMeanX"          
+[26] "tBodyGyroJerkMeanY"           "tBodyGyroJerkMeanZ"           "tBodyGyroJerkstdX"            "tBodyGyroJerkstdY"            "tBodyGyroJerkstdZ"           
+[31] "tBodyAccMagMean"              "tBodyAccMagstd"               "tGravityAccMagMean"           "tGravityAccMagstd"            "tBodyAccJerkMagMean"         
+[36] "tBodyAccJerkMagstd"           "tBodyGyroMagMean"             "tBodyGyroMagstd"              "tBodyGyroJerkMagMean"         "tBodyGyroJerkMagstd"         
+[41] "fBodyAccMeanX"                "fBodyAccMeanY"                "fBodyAccMeanZ"                "fBodyAccstdX"                 "fBodyAccstdY"                
+[46] "fBodyAccstdZ"                 "fBodyAccMeanFreqX"            "fBodyAccMeanFreqY"            "fBodyAccMeanFreqZ"            "fBodyAccJerkMeanX"           
+[51] "fBodyAccJerkMeanY"            "fBodyAccJerkMeanZ"            "fBodyAccJerkstdX"             "fBodyAccJerkstdY"             "fBodyAccJerkstdZ"            
+[56] "fBodyAccJerkMeanFreqX"        "fBodyAccJerkMeanFreqY"        "fBodyAccJerkMeanFreqZ"        "fBodyGyroMeanX"               "fBodyGyroMeanY"              
+[61] "fBodyGyroMeanZ"               "fBodyGyrostdX"                "fBodyGyrostdY"                "fBodyGyrostdZ"                "fBodyGyroMeanFreqX"          
+[66] "fBodyGyroMeanFreqY"           "fBodyGyroMeanFreqZ"           "fBodyAccMagMean"              "fBodyAccMagstd"               "fBodyAccMagMeanFreq"         
+[71] "fBodyBodyAccJerkMagMean"      "fBodyBodyAccJerkMagstd"       "fBodyBodyAccJerkMagMeanFreq"  "fBodyBodyGyroMagMean"         "fBodyBodyGyroMagstd"         
+[76] "fBodyBodyGyroMagMeanFreq"     "fBodyBodyGyroJerkMagMean"     "fBodyBodyGyroJerkMagstd"      "fBodyBodyGyroJerkMagMeanFreq"
+Activities
+ V1                 V2
+1            WALKING
+2   WALKING_UPSTAIRS
+3   WALKING_DOWNSTAIRS
+4   SITTING
+5   STANDING
+6   LAYING
